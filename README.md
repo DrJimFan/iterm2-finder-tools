@@ -1,6 +1,8 @@
 # iTerm2 Finder Tools
 New home for the code from [my blogpost about opening iTerm2 directly from the Finder](http://peterdowns.com/posts/open-iterm-finder-service.html). Read [the release post here](http://peterdowns.com/posts/iterm2-finder-tools.html).
 
+Jim: **DRAG ICON TO TOOLBAR** you need to hold BOTH cmd+option and drag `Open iTerm2.app` to Finder bar.
+
 ### What is it?
 A Finder service and toolbar application that will open iTerm2 and `cd` to the
 current directory visible in the Finder.
